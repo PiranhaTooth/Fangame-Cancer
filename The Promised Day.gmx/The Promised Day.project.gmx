@@ -326,6 +326,7 @@
       <room>rooms\r_basic</room>
       <room>rooms\rGrasslands</room>
       <room>rooms\rRoomEnd</room>
+      <room>rooms\room9</room>
     </rooms>
     <room>rooms\rTemplate</room>
   </rooms>
