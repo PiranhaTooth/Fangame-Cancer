@@ -323,6 +323,7 @@
     </rooms>
     <rooms name="sample">
       <room>rooms\rOpeningCinematics</room>
+      <room>rooms\r_basic</room>
     </rooms>
     <room>rooms\rTemplate</room>
   </rooms>
